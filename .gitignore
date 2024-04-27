@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-dist 
+dist
 
 # User-specific files
 *.rsuser
@@ -361,3 +361,4 @@ MigrationBackup/
 .Rhistory
 ML-For-Beginners.Rproj
 
+.venv
